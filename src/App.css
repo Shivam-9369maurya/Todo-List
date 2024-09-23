@@ -1,0 +1,9 @@
+input{
+    width: 100%;
+}
+.allbtn{
+    min-width: 135px;
+}
+.allrow{
+    margin: 10px 5px;
+}
